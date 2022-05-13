@@ -10,3 +10,6 @@ Demos - https://ej2.syncfusion.com/demos/#/material/document-editor/default
 Documentation - https://ej2.syncfusion.com/documentation/introduction/
 
 KB - https://www.syncfusion.com/kb/essential-js2/documenteditor
+
+## Blog reference
+[Easily Create a Fillable Form Using JavaScript Word Processor](https://www.syncfusion.com/blogs/post/easily-create-a-fillable-form-using-javascript-word-processor.aspx)
