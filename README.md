@@ -1,5 +1,5 @@
-# Syncfusion JavaScript Word Processor
-Getting started sample of Syncfusion JavaScript Word Processor
+# Syncfusion&reg; JavaScript Word Processor
+Getting started sample of Syncfusion&reg; JavaScript Word Processor
 
 KB Link - https://www.syncfusion.com/kb/10831/how-to-view-word-document-in-browser-using-javascript
 
