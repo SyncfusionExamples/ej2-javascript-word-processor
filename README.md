@@ -1,15 +1,5 @@
 # Syncfusion&reg; JavaScript Word Processor
-Getting started sample of Syncfusion&reg; JavaScript Word Processor
-
-KB Link - https://www.syncfusion.com/kb/10831/how-to-view-word-document-in-browser-using-javascript
-
-Feature Tour - https://www.syncfusion.com/javascript-ui-controls/js-word-processor
-
-Demos - https://ej2.syncfusion.com/demos/#/material/document-editor/default
-
-Documentation - https://ej2.syncfusion.com/documentation/introduction/
-
-KB - https://www.syncfusion.com/kb/essential-js2/documenteditor
+This repository contains a demo that illustrates how to get started with the Syncfusion JavaScript Document Editor (a.k.a Word Processor) component.
 
 ## Blog reference
 [Easily Create a Fillable Form Using JavaScript Word Processor](https://www.syncfusion.com/blogs/post/easily-create-a-fillable-form-using-javascript-word-processor.aspx)
