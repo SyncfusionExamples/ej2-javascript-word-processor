@@ -1,26 +1,18 @@
-# Syncfusion&reg; JavaScript Word Processor
-Getting started sample of Syncfusion&reg; JavaScript Word Processor
+# Syncfusion&reg; JavaScript (ES6) DOCX Editor
 
-KB Link - https://www.syncfusion.com/kb/10831/how-to-view-word-document-in-browser-using-javascript
-
-Feature Tour - https://www.syncfusion.com/javascript-ui-controls/js-word-processor
-
-Demos - https://ej2.syncfusion.com/demos/#/material/document-editor/default
-
-Documentation - https://ej2.syncfusion.com/documentation/introduction/
-
-KB - https://www.syncfusion.com/kb/essential-js2/documenteditor
+Getting started sample of Syncfusion<sup style="font-size:70%">&reg;</sup> [JavaScript (ES6) DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/javascript-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor)
 
 ## Blog reference
-[Easily Create a Fillable Form Using JavaScript Word Processor](https://www.syncfusion.com/blogs/post/easily-create-a-fillable-form-using-javascript-word-processor.aspx)
+[Easily Create a Fillable Form Using JavaScript (ES6) DOCX Editor](https://www.syncfusion.com/blogs/post/easily-create-a-fillable-form-using-javascript-word-processor.aspx)
 
-# Resources 
+# Resources
 
-- **Product page:**  [Syncfusion® Javascript Word Processor](https://www.syncfusion.com/javascript-ui-controls/js-docx-editor) 
+- **Product page:**   [Syncfusion® JavaScript (ES6) DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/javascript-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Documentation:**  [Syncfusion® Word Processor](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/overview) 
+- **Documentation:**   [Syncfusion® JavaScript (ES6) DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es6/overview?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Online demo:**  [Syncfusion® Word Processor - Demo](https://ej2.syncfusion.com/demos/) 
+- **Online demo:**   [Syncfusion® JavaScript (ES6) DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/javascript/#/material3/document-editor/default.html?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
+
 
 # Support and feedback 
 
